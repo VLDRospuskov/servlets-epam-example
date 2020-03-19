@@ -1,0 +1,5 @@
+com\epam\ejcservlet\dao\CustomerDAO.class
+com\epam\ejcservlet\controller\HelloServlet.class
+com\epam\ejcservlet\model\Customer.class
+com\epam\ejcservlet\controller\CustomerServlet.class
+com\epam\ejcservlet\configuration\DatabaseConfiguration.class
